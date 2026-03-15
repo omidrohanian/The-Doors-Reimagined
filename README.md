@@ -21,7 +21,7 @@ This project revisits an earlier notebook on The Doors and updates it with a bro
 
 ## Notes
 
-The notebook is designed to be read as an exploratory analysis rather than a finished model of the band’s work. Some visual outputs depend on the local Jupyter frontend and installed plotting stack.
+The notebook is designed to be read as an exploratory analysis rather than a finished model of the band’s work. Some visual outputs depend on the local Jupyter frontend and installed plotting stack. For some reason Github does not render the various visuals apart from the wordcloud which is loaded from a file anyway. to properly inspect the outputs you should download the repo and inspect it with jupyternotebook or open the HTML render.
 
 ## License
 
